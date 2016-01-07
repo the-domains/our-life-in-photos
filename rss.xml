@@ -4,7 +4,7 @@
         <description><![CDATA[Our Life in Photos]]></description>
         <link>https://thegrid.ai/our-life-in-photos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 06:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 06:29:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/our-life-in-photos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/our-life-in-photos/fc45af9b-59ff-452a-a23e-ea03824f4efa/index.html</link>
             <guid isPermaLink="false">fc45af9b-59ff-452a-a23e-ea03824f4efa</guid>
             <pubDate>Thu, 07 Jan 2016 06:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testing 1 2 3 ...</p>]]></description>
-            <link>https://thegrid.ai/our-life-in-photos/4935856f-4e23-480e-8627-d4ab9ec50834/index.html</link>
-            <guid isPermaLink="false">4935856f-4e23-480e-8627-d4ab9ec50834</guid>
-            <pubDate>Thu, 07 Jan 2016 06:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
